@@ -1,0 +1,13 @@
+{
+  "name": "value.eth",
+  "short_name": "value.eth",
+  "start_url": "/intro",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#020617",
+  "icons": [
+    { "src": "/img/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/img/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
