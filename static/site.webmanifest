@@ -1,7 +1,7 @@
 {
   "name": "value.eth",
   "short_name": "value.eth",
-  "start_url": "/intro",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "theme_color": "#0f172a",

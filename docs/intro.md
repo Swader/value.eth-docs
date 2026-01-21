@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Overview
+slug: /
 ---
 
 PermaLock is a liquidity locking protocol for Uniswap V3 and V4 LP position

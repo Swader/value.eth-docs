@@ -62,7 +62,7 @@ const config: Config = {
       logo: {
         alt: 'value.eth logo',
         src: 'img/android-chrome-192x192.png',
-        href: '/intro',
+        href: '/',
       },
       items: [
         {to: '/deployments', label: 'Deployments', position: 'left'},
@@ -78,7 +78,7 @@ const config: Config = {
           items: [
             {
               label: 'Overview',
-              to: '/intro',
+              to: '/',
             },
             {
               label: 'How it works',
