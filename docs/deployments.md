@@ -5,6 +5,6 @@ title: Deployments
 
 | Chain | Chain ID | PermaLock | Explorer |
 | --- | --- | --- | --- |
-| Ethereum | 1 | `0x02eE657cd50d1520F4c6719b59AA85461E6C6e32` | [Etherscan](https://etherscan.io/address/0x02eE657cd50d1520F4c6719b59AA85461E6C6e32) |
-| Base | 8453 | `0x9eae2c0472e6B7DBa4B613D09174CaF7B77fa90a` | [Basescan](https://basescan.org/address/0x9eae2c0472e6B7DBa4B613D09174CaF7B77fa90a) |
-| Polygon | 137 | `0xe93Ca18F52E57a6709b039DE8e8c350af4e455dB` | [Polygonscan](https://polygonscan.com/address/0xe93Ca18F52E57a6709b039DE8e8c350af4e455dB) |
+| Ethereum | 1 | `0x91aFf7C757Bab851d472EC4eC6737D513CeDCa2c` | [Etherscan](https://etherscan.io/address/0x91aFf7C757Bab851d472EC4eC6737D513CeDCa2c) |
+| Base | 8453 | `0x46230777860C2A0897f2220f86249E78b6654683` | [Basescan](https://basescan.org/address/0x46230777860C2A0897f2220f86249E78b6654683) |
+| Polygon | 137 | `0x9b7F1258F2EF437435a91e75aAC9c6Fb32c2bB1b` | [Polygonscan](https://polygonscan.com/address/0x9b7F1258F2EF437435a91e75aAC9c6Fb32c2bB1b) |
